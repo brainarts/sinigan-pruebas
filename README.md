@@ -1,8 +1,15 @@
 # SINIGAN - Scripts de Pruebas de Usuario
 
+## 📋 Reporte de Hallazgos
+
+**Los hallazgos y problemas identificados durante las pruebas deben documentarse en la mesa de ayuda:**  
+🔗 **[https://brainarts.atlassian.net/servicedesk/customer/portal/4](https://brainarts.atlassian.net/servicedesk/customer/portal/4)**
+
 ## 📱 Acerca de SINIGAN
 
-SINIGAN es una aplicación móvil para la gestión de guías de movilización ganadera. Este repositorio contiene scripts de pruebas atómicas diseñados para evaluar la experiencia de usuario en las funcionalidades principales del sistema.
+SINIGAN es el Sistema Nacional de Identificación e Información del Ganado Bovino en Colombia, una plataforma digital que centraliza y facilita trámites para ganaderos y comerciantes del sector pecuario. Permite realizar gestiones como la expedición de Guías Sanitarias de Movilización Interna (GSMI), registro de animales y hierros, y el seguimiento de la trazabilidad integral del ganado.
+
+Este repositorio contiene scripts de pruebas atómicas diseñados para evaluar la experiencia de usuario en las funcionalidades principales del sistema.
 
 ## 🎯 Objetivo de las Pruebas
 
